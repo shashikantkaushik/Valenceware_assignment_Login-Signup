@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1016467293845",
+    "project_id": "valencewareassignment",
+    "storage_bucket": "valencewareassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016467293845:android:422d402326d5f5a51f3d9c",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016467293845-c62sof9pt95tflfivhaissvftmkbig4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "4f7c058b30a7aaeba0f67194ee218624416698d1"
+          }
+        },
+        {
+          "client_id": "1016467293845-o9ofkrahiq2ktiug94qgodgslvq5j9b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhWEcno7Q3z99hEhFdFA4qSQPwjVHI6Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016467293845-o9ofkrahiq2ktiug94qgodgslvq5j9b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
