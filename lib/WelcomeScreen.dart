@@ -32,7 +32,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                 ),
                 const SizedBox(height: 20),
                 const Text(
-                  "Let's go Homzy",
+                  "Let's go ",
                   style: TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.bold,
@@ -40,7 +40,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                 ),
                 const SizedBox(height: 10),
                 const Text(
-                  "A to Z Home Service App",
+                  "Login/Signup UI",
                   style: TextStyle(
                     fontSize: 14,
                     color: Colors.black38,
